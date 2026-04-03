@@ -6,7 +6,8 @@ The application allows users to manage airline bookings, view flights, reserve s
 The system simulates real-world airline reservation operations including **user registration, flight management, ticket booking, and reservation cancellation**.
 
 ---
-
+## Live Demo
+Visit this link(install the jar extension):- https://github.com/anasniet77/Airline-Ticket-Reservation-System/releases
 ## 🚀 Project Overview
 
 This project demonstrates the use of **Java Swing for GUI development**, **file handling for persistent data storage**, and **object-oriented programming concepts**.
